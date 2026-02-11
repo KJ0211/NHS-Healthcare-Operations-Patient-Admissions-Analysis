@@ -1,0 +1,201 @@
+patient_id,age,gender,city,department,diagnosis,admission_date,discharge_date,outcome,length_of_stay_days,total_cost_gbp
+P100000,59,M,Manchester,Gastroenterology,Heart Failure,2024-04-12,2024-04-17,Recovered,5,3758.4
+P100001,47,F,Nottingham,General Medicine,Pneumonia,2025-03-11,2025-03-14,Recovered,3,1869.53
+P100002,76,F,Sheffield,General Medicine,Hypertension,2024-09-27,2024-09-29,Improved,2,1824.51
+P100003,27,M,Leeds,Cardiology,Heart Failure,2024-04-16,2024-04-16,Improved,0,1025.21
+P100004,68,M,Birmingham,Endocrinology,Anxiety,2024-03-12,2024-03-15,Improved,3,2686.67
+P100005,76,M,Manchester,Gastroenterology,Asthma,2024-01-21,2024-01-25,Recovered,4,2835.06
+P100006,80,F,Leeds,Psychiatry,COPD,2025-09-06,2025-09-10,Improved,4,2217.49
+P100007,39,M,Nottingham,Endocrinology,Gastroenteritis,2024-05-01,2024-05-05,Recovered,4,2194.09
+P100008,44,F,Liverpool,Endocrinology,Coronary Artery Disease,2025-04-11,2025-04-20,Improved,9,5550.8
+P100009,61,F,Leeds,Gastroenterology,Gastroenteritis,2024-08-02,2024-08-03,Improved,1,1662.69
+P100010,92,M,Bristol,Cardiology,Heart Failure,2024-11-26,2024-11-28,Recovered,2,1848.24
+P100011,57,F,London,Cardiology,COPD,2025-04-03,2025-04-05,Recovered,2,2807.84
+P100012,66,M,Manchester,Cardiology,Anxiety,2024-03-28,2024-04-01,Recovered,4,2823.35
+P100013,55,M,Nottingham,Cardiology,Depression,2025-01-07,2025-01-13,Recovered,6,3557.27
+P100014,39,M,Liverpool,General Medicine,Hypertension,2024-04-09,2024-04-12,Recovered,3,1242.1
+P100015,39,M,Birmingham,Cardiology,COPD,2024-05-10,2024-05-17,Improved,7,2164.19
+P100016,90,M,Liverpool,General Medicine,Asthma,2024-11-04,2024-11-08,Recovered,4,2806.26
+P100017,76,F,Sheffield,General Medicine,Pneumonia,2024-12-09,2024-12-15,Recovered,6,3256.09
+P100018,32,F,Bristol,Cardiology,Anxiety,2025-05-06,2025-05-14,Recovered,8,2958.39
+P100019,5,M,Nottingham,Pulmonology,Hypertension,2025-02-17,2025-02-22,Recovered,5,3421.65
+P100020,87,M,Birmingham,Psychiatry,Coronary Artery Disease,2025-01-20,2025-01-27,Unchanged,7,2562.75
+P100021,18,F,Sheffield,Endocrinology,Pneumonia,2024-07-10,2024-07-17,Recovered,7,1702.55
+P100022,79,F,Sheffield,General Medicine,Heart Failure,2024-10-03,2024-10-10,Improved,7,4105.77
+P100023,39,F,Nottingham,Gastroenterology,COPD,2024-06-09,2024-06-11,Improved,2,1911.55
+P100024,91,F,Bristol,Gastroenterology,Hypertension,2025-04-04,2025-04-07,Improved,3,2112.69
+P100025,58,M,Leeds,Psychiatry,Diabetes,2024-11-09,2024-11-11,Unchanged,2,1503.73
+P100026,58,M,Leeds,Gastroenterology,Depression,2024-01-22,2024-01-25,Recovered,3,2309.2
+P100027,47,F,Sheffield,Pulmonology,Depression,2024-09-09,2024-09-11,Referred,2,1797.87
+P100028,40,M,Leeds,Gastroenterology,Anxiety,2025-07-14,2025-07-21,Recovered,7,5174.9
+P100029,12,F,London,Endocrinology,Coronary Artery Disease,2025-04-19,2025-04-21,Recovered,2,2157.48
+P100030,44,M,Sheffield,Endocrinology,Anxiety,2024-02-28,2024-03-02,Improved,3,2864.31
+P100031,88,F,Sheffield,General Medicine,Diabetes,2025-05-25,2025-05-27,Unchanged,2,2021.38
+P100032,52,M,Birmingham,Cardiology,Asthma,2025-04-20,2025-04-24,Improved,4,2396.23
+P100033,41,F,Leeds,Pulmonology,Coronary Artery Disease,2024-07-08,2024-07-14,Recovered,6,2366.71
+P100034,62,F,Bristol,General Medicine,Gastroenteritis,2025-07-16,2025-07-17,Recovered,1,1626.35
+P100035,26,M,Sheffield,Pulmonology,Asthma,2025-07-20,2025-07-21,Unchanged,1,1283.36
+P100036,37,F,Liverpool,Cardiology,Coronary Artery Disease,2024-08-31,2024-09-03,Recovered,3,3080.3
+P100037,59,M,Bristol,Gastroenterology,Coronary Artery Disease,2025-05-19,2025-05-22,Improved,3,1731.33
+P100038,6,M,London,Gastroenterology,Diabetes,2024-05-10,2024-05-14,Improved,4,3357.87
+P100039,4,F,Birmingham,Cardiology,Heart Failure,2025-04-29,2025-05-04,Recovered,5,2879.57
+P100040,44,M,Nottingham,General Medicine,Diabetes,2025-10-08,2025-10-10,Recovered,2,2105.08
+P100041,57,M,Bristol,Cardiology,Coronary Artery Disease,2024-01-21,2024-01-29,Recovered,8,3272.62
+P100042,30,M,Sheffield,Psychiatry,Hypertension,2024-06-15,2024-06-18,Recovered,3,2138.73
+P100043,22,M,London,Endocrinology,Asthma,2024-09-30,2024-10-01,Unchanged,1,1647.36
+P100044,41,M,Manchester,General Medicine,Diabetes,2025-01-22,2025-01-24,Recovered,2,1887.95
+P100045,9,F,London,Pulmonology,Heart Failure,2025-08-23,2025-08-25,Unchanged,2,1862.97
+P100046,31,M,London,Psychiatry,COPD,2024-11-11,2024-11-15,Recovered,4,2611.25
+P100047,52,M,Birmingham,General Medicine,Anxiety,2024-01-14,2024-01-20,Referred,6,4345.22
+P100048,29,M,Nottingham,Cardiology,Coronary Artery Disease,2024-08-29,2024-09-05,Recovered,7,3598.05
+P100049,38,M,Manchester,Cardiology,Gastroenteritis,2024-12-11,2024-12-17,Recovered,6,3972.61
+P100050,30,M,Leeds,Cardiology,COPD,2025-07-18,2025-07-20,Recovered,2,1806.33
+P100051,81,F,Leeds,Cardiology,Depression,2024-12-05,2024-12-10,Improved,5,2387.65
+P100052,1,M,Bristol,Pulmonology,Pneumonia,2024-04-01,2024-04-06,Improved,5,3359.09
+P100053,77,F,London,Psychiatry,Heart Failure,2025-01-01,2025-01-05,Improved,4,3472.43
+P100054,76,F,Liverpool,Gastroenterology,Gastroenteritis,2025-03-30,2025-04-03,Recovered,4,2388.81
+P100055,92,F,Birmingham,Endocrinology,Pneumonia,2025-03-03,2025-03-06,Recovered,3,1533.24
+P100056,11,F,Liverpool,Pulmonology,Heart Failure,2025-05-23,2025-05-25,Recovered,2,2168.21
+P100057,38,M,Birmingham,Pulmonology,Hypertension,2024-02-04,2024-02-07,Recovered,3,1242.2
+P100058,65,F,Leeds,Gastroenterology,Anxiety,2024-07-24,2024-08-01,Recovered,8,3558.92
+P100059,12,F,Bristol,Gastroenterology,COPD,2024-03-21,2024-03-26,Referred,5,2385.11
+P100060,45,M,Bristol,Endocrinology,Asthma,2025-07-15,2025-07-15,Referred,0,1581.19
+P100061,26,M,Bristol,Endocrinology,Heart Failure,2025-01-22,2025-01-24,Unchanged,2,1347.25
+P100062,16,M,Manchester,Gastroenterology,Asthma,2024-01-02,2024-01-07,Improved,5,2928.82
+P100063,94,F,Nottingham,Cardiology,Anxiety,2025-01-24,2025-01-28,Recovered,4,3073.89
+P100064,59,M,Manchester,Pulmonology,Coronary Artery Disease,2025-07-19,2025-07-24,Recovered,5,2457.72
+P100065,63,M,Sheffield,General Medicine,Depression,2024-04-15,2024-04-24,Recovered,9,3255.91
+P100066,87,F,Sheffield,Endocrinology,COPD,2025-04-21,2025-04-27,Improved,6,3340.89
+P100067,34,M,Liverpool,Endocrinology,Anxiety,2025-02-05,2025-02-08,Recovered,3,1796.25
+P100068,69,M,Nottingham,Gastroenterology,Anxiety,2025-07-09,2025-07-16,Recovered,7,3597.39
+P100069,82,M,Leeds,Psychiatry,Hypertension,2024-06-10,2024-06-18,Recovered,8,3644.05
+P100070,29,M,Nottingham,General Medicine,Pneumonia,2024-07-20,2024-07-21,Recovered,1,1498.11
+P100071,70,F,Birmingham,General Medicine,Depression,2024-09-26,2024-10-04,Unchanged,8,4838.89
+P100072,73,M,Sheffield,Endocrinology,COPD,2024-09-27,2024-09-29,Improved,2,1970.02
+P100073,62,M,London,Cardiology,Coronary Artery Disease,2025-03-31,2025-04-10,Recovered,10,4070.79
+P100074,27,F,London,Psychiatry,Coronary Artery Disease,2025-04-06,2025-04-12,Referred,6,2860.86
+P100075,59,M,Leeds,General Medicine,Diabetes,2024-09-08,2024-09-16,Improved,8,4385.71
+P100076,78,F,Birmingham,Endocrinology,Anxiety,2024-10-22,2024-10-23,Recovered,1,1629.02
+P100077,93,M,Liverpool,General Medicine,Heart Failure,2024-12-03,2024-12-07,Recovered,4,1737.98
+P100078,36,F,Manchester,Psychiatry,Hypertension,2024-02-22,2024-02-22,Recovered,0,1283.01
+P100079,92,F,Birmingham,Psychiatry,Depression,2024-08-04,2024-08-09,Recovered,5,2113.21
+P100080,21,F,London,Pulmonology,Coronary Artery Disease,2024-07-06,2024-07-12,Referred,6,3421.46
+P100081,67,F,London,Gastroenterology,COPD,2025-01-14,2025-01-20,Recovered,6,2929.14
+P100082,19,M,Liverpool,Gastroenterology,Diabetes,2025-05-07,2025-05-09,Unchanged,2,2114.34
+P100083,67,F,Sheffield,Endocrinology,COPD,2024-02-10,2024-02-11,Recovered,1,1675.34
+P100084,90,M,Birmingham,Psychiatry,Hypertension,2024-06-05,2024-06-07,Recovered,2,1742.87
+P100085,63,F,Birmingham,Pulmonology,Heart Failure,2024-01-15,2024-01-19,Recovered,4,2404.17
+P100086,16,F,London,Pulmonology,Diabetes,2024-03-05,2024-03-07,Recovered,2,2287.19
+P100087,11,F,Manchester,General Medicine,Diabetes,2025-06-04,2025-06-06,Recovered,2,1916.85
+P100088,21,M,Leeds,General Medicine,Pneumonia,2024-12-09,2024-12-10,Unchanged,1,1373.67
+P100089,16,F,Bristol,Pulmonology,Depression,2024-05-08,2024-05-11,Recovered,3,2028.51
+P100090,9,M,Leeds,General Medicine,Diabetes,2025-10-09,2025-10-12,Improved,3,1968.82
+P100091,64,M,Birmingham,Psychiatry,Pneumonia,2025-04-16,2025-04-19,Recovered,3,2304.99
+P100092,21,M,Leeds,Cardiology,Pneumonia,2024-03-03,2024-03-07,Recovered,4,2329.37
+P100093,89,M,London,Psychiatry,Hypertension,2024-05-18,2024-05-23,Recovered,5,3665.45
+P100094,81,M,London,Pulmonology,Asthma,2025-05-13,2025-05-14,Improved,1,1679.19
+P100095,49,M,Liverpool,Pulmonology,COPD,2025-08-15,2025-08-20,Recovered,5,2798.54
+P100096,13,M,Birmingham,Psychiatry,Heart Failure,2025-01-26,2025-01-29,Recovered,3,2632.4
+P100097,63,M,Liverpool,General Medicine,Gastroenteritis,2025-02-22,2025-02-23,Improved,1,910.37
+P100098,46,M,Birmingham,General Medicine,COPD,2024-10-15,2024-10-17,Recovered,2,1411.27
+P100099,28,F,Bristol,Gastroenterology,Diabetes,2025-01-13,2025-01-18,Recovered,5,2270.27
+P100100,75,F,Bristol,Pulmonology,Heart Failure,2025-05-04,2025-05-08,Recovered,4,3248.3
+P100101,35,F,Sheffield,Endocrinology,Coronary Artery Disease,2024-08-18,2024-08-22,Unchanged,4,2439.76
+P100102,51,F,Birmingham,Gastroenterology,Asthma,2024-02-10,2024-02-13,Improved,3,2115.76
+P100103,75,F,Manchester,General Medicine,Coronary Artery Disease,2024-01-28,2024-01-30,Recovered,2,2271.88
+P100104,6,M,Leeds,Psychiatry,Coronary Artery Disease,2024-05-14,2024-05-16,Recovered,2,1948.7
+P100105,28,M,Birmingham,General Medicine,Depression,2024-07-19,2024-07-22,Referred,3,3201.76
+P100106,10,M,Nottingham,Psychiatry,COPD,2024-02-02,2024-02-08,Improved,6,4342.92
+P100107,32,M,Sheffield,Gastroenterology,Gastroenteritis,2024-02-17,2024-02-22,Recovered,5,2351.19
+P100108,5,M,Nottingham,Pulmonology,Hypertension,2025-05-17,2025-05-21,Unchanged,4,2343.52
+P100109,78,M,London,General Medicine,Gastroenteritis,2025-02-10,2025-02-12,Recovered,2,1911.0
+P100110,31,M,Bristol,Psychiatry,Coronary Artery Disease,2025-07-27,2025-07-30,Recovered,3,2106.86
+P100111,50,F,Leeds,Pulmonology,Diabetes,2024-04-08,2024-04-10,Improved,2,1235.01
+P100112,74,F,Birmingham,Endocrinology,Asthma,2025-06-30,2025-07-01,Recovered,1,1935.35
+P100113,57,F,Nottingham,Psychiatry,Anxiety,2025-09-04,2025-09-11,Referred,7,2061.19
+P100114,86,F,Leeds,Gastroenterology,Gastroenteritis,2025-04-06,2025-04-11,Improved,5,2794.99
+P100115,25,M,London,Endocrinology,Coronary Artery Disease,2025-10-04,2025-10-07,Improved,3,3117.56
+P100116,45,M,Bristol,Endocrinology,Asthma,2024-01-05,2024-01-10,Recovered,5,2278.27
+P100117,28,M,Manchester,Cardiology,Heart Failure,2024-08-05,2024-08-08,Recovered,3,2736.22
+P100118,3,F,Sheffield,General Medicine,COPD,2025-05-17,2025-05-23,Recovered,6,3165.97
+P100119,80,M,Leeds,Psychiatry,Pneumonia,2025-02-01,2025-02-05,Improved,4,2560.33
+P100120,12,M,Leeds,Endocrinology,Depression,2025-01-27,2025-02-01,Recovered,5,3452.56
+P100121,38,M,Manchester,Cardiology,Asthma,2024-07-25,2024-07-30,Recovered,5,2302.54
+P100122,14,F,Leeds,Gastroenterology,Diabetes,2024-01-15,2024-01-19,Improved,4,2324.86
+P100123,28,M,London,Pulmonology,Diabetes,2025-07-07,2025-07-09,Recovered,2,2029.03
+P100124,28,F,London,Psychiatry,Asthma,2025-04-05,2025-04-10,Improved,5,3843.77
+P100125,74,F,Manchester,Endocrinology,Diabetes,2025-07-28,2025-08-01,Recovered,4,2543.14
+P100126,31,F,Sheffield,General Medicine,COPD,2024-08-28,2024-09-03,Referred,6,3032.76
+P100127,1,F,Birmingham,Cardiology,Diabetes,2025-07-17,2025-07-21,Recovered,4,1697.72
+P100128,46,M,Nottingham,Endocrinology,Gastroenteritis,2024-04-05,2024-04-10,Recovered,5,3092.76
+P100129,77,F,Birmingham,General Medicine,Pneumonia,2025-04-29,2025-04-29,Recovered,0,1441.97
+P100130,83,F,Leeds,Endocrinology,Diabetes,2025-02-10,2025-02-18,Recovered,8,2415.36
+P100131,21,M,Nottingham,Psychiatry,Pneumonia,2024-08-18,2024-08-23,Improved,5,969.63
+P100132,74,M,Liverpool,Psychiatry,Coronary Artery Disease,2024-06-19,2024-06-26,Improved,7,5394.94
+P100133,26,F,Manchester,Psychiatry,Hypertension,2025-06-24,2025-06-26,Improved,2,882.07
+P100134,66,M,Manchester,Gastroenterology,COPD,2024-02-05,2024-02-05,Recovered,0,1488.8
+P100135,80,F,Sheffield,Gastroenterology,Hypertension,2025-06-08,2025-06-13,Recovered,5,3212.62
+P100136,55,F,Nottingham,Cardiology,Coronary Artery Disease,2024-06-08,2024-06-12,Recovered,4,1645.79
+P100137,91,F,London,Psychiatry,COPD,2024-08-30,2024-09-03,Improved,4,2012.74
+P100138,92,F,Nottingham,General Medicine,Asthma,2024-03-26,2024-03-28,Unchanged,2,1719.82
+P100139,20,M,Leeds,Endocrinology,Asthma,2025-07-31,2025-08-03,Recovered,3,2289.34
+P100140,46,F,London,Pulmonology,Pneumonia,2025-07-10,2025-07-13,Recovered,3,2297.81
+P100141,79,M,Bristol,General Medicine,Coronary Artery Disease,2025-07-27,2025-07-30,Improved,3,2592.56
+P100142,58,M,Bristol,Gastroenterology,Pneumonia,2025-10-07,2025-10-10,Improved,3,2144.2
+P100143,83,M,Liverpool,Gastroenterology,Depression,2024-01-28,2024-01-30,Improved,2,1839.09
+P100144,5,M,Bristol,General Medicine,Diabetes,2025-09-11,2025-09-16,Unchanged,5,3125.1
+P100145,18,F,Manchester,Gastroenterology,Anxiety,2025-07-09,2025-07-13,Recovered,4,1949.84
+P100146,56,M,Nottingham,Psychiatry,Depression,2024-12-05,2024-12-08,Recovered,3,2549.13
+P100147,68,F,Bristol,Cardiology,Diabetes,2024-11-26,2024-11-29,Unchanged,3,2196.2
+P100148,2,M,Birmingham,Endocrinology,COPD,2025-10-01,2025-10-04,Improved,3,2261.06
+P100149,0,M,Sheffield,Cardiology,Pneumonia,2025-05-20,2025-05-22,Recovered,2,2207.08
+P100150,57,F,Birmingham,Endocrinology,COPD,2024-12-13,2024-12-15,Improved,2,1925.09
+P100151,37,F,Bristol,Endocrinology,COPD,2025-04-17,2025-04-23,Improved,6,4049.4
+P100152,14,F,Liverpool,Cardiology,Diabetes,2024-08-18,2024-08-20,Improved,2,1763.1
+P100153,33,M,Sheffield,General Medicine,Coronary Artery Disease,2024-07-08,2024-07-09,Improved,1,2153.5
+P100154,60,M,Leeds,Endocrinology,Diabetes,2024-08-12,2024-08-13,Recovered,1,1591.38
+P100155,34,F,Birmingham,Cardiology,Heart Failure,2025-01-19,2025-01-24,Recovered,5,2802.9
+P100156,63,F,Liverpool,Endocrinology,Asthma,2025-01-11,2025-01-15,Recovered,4,2623.33
+P100157,24,F,Nottingham,Pulmonology,Asthma,2024-10-09,2024-10-14,Improved,5,3375.89
+P100158,23,F,Nottingham,General Medicine,Depression,2025-09-24,2025-09-29,Improved,5,4494.77
+P100159,11,M,Birmingham,Psychiatry,Asthma,2025-09-19,2025-09-23,Improved,4,2357.3
+P100160,17,F,Bristol,Endocrinology,Diabetes,2024-09-15,2024-09-20,Recovered,5,3806.53
+P100161,14,F,Liverpool,Pulmonology,Gastroenteritis,2024-12-24,2024-12-27,Improved,3,2676.7
+P100162,79,F,Nottingham,Psychiatry,Pneumonia,2025-03-31,2025-04-04,Improved,4,3607.53
+P100163,26,F,Leeds,Psychiatry,Diabetes,2025-02-14,2025-02-20,Improved,6,2975.14
+P100164,71,M,London,Endocrinology,Diabetes,2025-10-10,2025-10-14,Improved,4,2745.46
+P100165,59,F,Bristol,Cardiology,Anxiety,2024-11-13,2024-11-15,Improved,2,1877.39
+P100166,45,M,Liverpool,Endocrinology,Pneumonia,2024-08-12,2024-08-15,Recovered,3,2600.04
+P100167,88,F,Leeds,Pulmonology,Heart Failure,2024-08-21,2024-08-26,Recovered,5,2510.81
+P100168,16,F,Liverpool,Psychiatry,Asthma,2025-01-08,2025-01-11,Recovered,3,2551.31
+P100169,92,M,Sheffield,Endocrinology,Pneumonia,2025-08-30,2025-09-01,Recovered,2,1731.12
+P100170,52,F,Leeds,Cardiology,Asthma,2025-04-16,2025-04-20,Improved,4,3183.28
+P100171,7,M,Bristol,Endocrinology,Depression,2024-08-20,2024-08-24,Improved,4,1793.7
+P100172,78,M,Sheffield,General Medicine,Pneumonia,2024-04-22,2024-04-27,Recovered,5,2780.13
+P100173,26,F,Bristol,Cardiology,Asthma,2025-05-11,2025-05-14,Recovered,3,2225.86
+P100174,45,M,Nottingham,Pulmonology,Heart Failure,2025-03-17,2025-03-24,Improved,7,3505.35
+P100175,49,M,London,Psychiatry,Hypertension,2025-07-17,2025-07-21,Recovered,4,1625.03
+P100176,70,M,Bristol,Endocrinology,COPD,2024-09-24,2024-09-29,Recovered,5,2596.49
+P100177,2,M,Bristol,Cardiology,COPD,2025-05-24,2025-05-26,Recovered,2,1809.79
+P100178,92,M,Nottingham,General Medicine,Heart Failure,2025-01-20,2025-01-29,Recovered,9,2133.1
+P100179,63,M,Manchester,Cardiology,Anxiety,2025-01-21,2025-01-23,Recovered,2,2162.51
+P100180,43,M,Nottingham,Gastroenterology,Hypertension,2024-04-22,2024-04-23,Recovered,1,1315.35
+P100181,52,M,Sheffield,General Medicine,Depression,2025-09-04,2025-09-07,Recovered,3,2712.96
+P100182,23,F,Nottingham,Pulmonology,Heart Failure,2025-09-16,2025-09-22,Unchanged,6,4215.4
+P100183,59,F,Nottingham,Psychiatry,COPD,2024-03-21,2024-03-22,Recovered,1,1285.57
+P100184,2,M,London,Pulmonology,COPD,2024-04-22,2024-04-24,Improved,2,1589.02
+P100185,19,F,Nottingham,Endocrinology,COPD,2024-01-02,2024-01-10,Recovered,8,3814.71
+P100186,45,M,Liverpool,Cardiology,Coronary Artery Disease,2025-10-03,2025-10-10,Recovered,7,4224.01
+P100187,14,M,Bristol,Gastroenterology,Heart Failure,2024-08-07,2024-08-10,Improved,3,1443.87
+P100188,24,F,Liverpool,General Medicine,Diabetes,2025-07-19,2025-07-20,Recovered,1,1396.39
+P100189,93,M,London,General Medicine,Depression,2024-08-12,2024-08-18,Recovered,6,3277.22
+P100190,77,M,Birmingham,Cardiology,COPD,2025-01-19,2025-01-23,Improved,4,1481.35
+P100191,70,M,Manchester,Gastroenterology,Asthma,2025-02-06,2025-02-11,Improved,5,1430.46
+P100192,16,M,Liverpool,Cardiology,Heart Failure,2025-09-29,2025-10-02,Recovered,3,2310.52
+P100193,83,F,London,Endocrinology,Coronary Artery Disease,2024-05-09,2024-05-12,Recovered,3,2030.52
+P100194,8,M,Sheffield,Pulmonology,Heart Failure,2024-02-22,2024-02-27,Improved,5,3182.86
+P100195,37,M,Birmingham,General Medicine,Depression,2025-02-19,2025-02-24,Recovered,5,2643.59
+P100196,47,M,London,Endocrinology,Coronary Artery Disease,2024-09-03,2024-09-07,Improved,4,2561.37
+P100197,59,F,London,Pulmonology,Depression,2025-03-14,2025-03-20,Improved,6,3282.12
+P100198,62,M,Manchester,Endocrinology,Heart Failure,2024-07-21,2024-07-24,Referred,3,2192.44
+P100199,85,F,Bristol,Gastroenterology,Diabetes,2024-07-02,2024-07-06,Recovered,4,3250.96
